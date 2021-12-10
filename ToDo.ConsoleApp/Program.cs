@@ -1,4 +1,8 @@
-﻿using System;
+﻿// -----------------------------------------------------------------------
+// Copyright (c) MumsWhoCode. All rights reserved.
+// -----------------------------------------------------------------------
+
+using System;
 
 namespace ToDo.ConsoleApp
 {

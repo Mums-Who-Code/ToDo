@@ -27,4 +27,9 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E9F9680-49E5-4906-B15A-DAE66EAE8045}
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.Text = @[*.cs]\n\nfile_header_template = ------------------------------------------------\\nCopyright (c) MumsWhoCode. All rights reserved.\\n------------------------------------------------
+	EndGlobalSection
 EndGlobal
